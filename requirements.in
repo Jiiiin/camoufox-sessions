@@ -1,0 +1,4 @@
+camoufox==0.5.8
+playwright==1.62.0
+platformdirs==4.13.0
+pyobjc-framework-Cocoa==12.2.2; sys_platform == 'darwin'
